@@ -1,7 +1,5 @@
 # The3DShootingGame (SimpleWar)
 
-むかしDirectX12でつくったC++ゲーム
-
 ## プロジェクト構成
 
 ```
